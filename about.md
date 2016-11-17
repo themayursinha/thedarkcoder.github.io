@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I do cybersecurity. I am part of blue team during the day and become red team member at night. 
+My name is Mayur Sinha. I'm a cybersecurity professional. I am part of blue team during the day and become red team member at night. 
 
 ### More Information
 
