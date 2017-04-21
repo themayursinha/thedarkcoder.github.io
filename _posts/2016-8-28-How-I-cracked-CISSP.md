@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How I cracked CISSP?
+date:   2016-8-28
 ---
 
 
