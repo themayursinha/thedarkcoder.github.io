@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-My name is Mayur Sinha. I'm a cybersecurity professional. I am part of blue team during the day and become red team member at night. 
+My name is Mayur Sinha. I am an InfoSec professional, engineer and researcher with experience in various aspects of Information Security focusing on network and application security. My core interest lies in penetration testing, vulnerability research, exploit development, reverse engineering and threat intelligence. I have found bugs in many commericial softwares and applications. I have also been invited to speak at various security conferences. I'm also interested in understanding the security aspects of emerging technologies like IoT, blockchain, machine learning.
 
 ### More Information
 
-Contact me if you need cyber security consulting.
+Contact me if you need cybersecurity consulting.
 
 ### Contact me
 
